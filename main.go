@@ -5,6 +5,7 @@ func main(){
 	print("branch no_master")
 	print("branch no_master2")
 
-	print("he's alive - branch master")
+	print("branch master")
+	print("branch master2")
 	
 }
