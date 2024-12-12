@@ -1,5 +1,5 @@
 package main
 
 func main(){
-	print("master")
+	print("he's alive")
 }
