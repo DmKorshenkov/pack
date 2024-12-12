@@ -8,3 +8,7 @@ func main(){
 func helper(get string) {
 	fmt.Println(get)
 }
+
+func hepler2(){
+	print("nothing")
+}
