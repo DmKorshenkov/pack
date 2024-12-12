@@ -6,7 +6,7 @@ func main(){
 
 	helper2(str2)
 
-	helper3()
+	helper3(str)
 }
 
 
