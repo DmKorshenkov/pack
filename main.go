@@ -1,5 +1,7 @@
 package main
 
 func main(){
-	print("main2")
+	print("root")
+
+	print("new1")
 }
