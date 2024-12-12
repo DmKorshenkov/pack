@@ -1,5 +1,11 @@
 package main
 
 func main(){
-	print("he's alive")
+
+	
+	print("master")
+	
+	print("root")
+	print("root2")
+
 }
