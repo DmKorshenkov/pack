@@ -1,6 +1,6 @@
 package main
 
 func main(){
-	print("master")
-	print("root")
+	print("master1")
+	print("root1")
 }
