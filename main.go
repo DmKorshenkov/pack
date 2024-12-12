@@ -1,7 +1,9 @@
 package main
 
 func main(){
-	print("root")
+	helper(str)
+}
 
-	print("new1")
+func helper(get string) {
+	fmt.Println(get)
 }
