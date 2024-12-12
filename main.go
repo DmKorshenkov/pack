@@ -3,8 +3,12 @@ package main
 func main(){
 	str := "Hello"
 	helper(str)
-	helper2()
+
+	helper2(str2)
+
+	helper3()
 }
+
 
 func helper(get string) {
 	fmt.Println(get)
@@ -12,4 +16,8 @@ func helper(get string) {
 
 func hepler2(){
 	print("nothing")
+}
+
+func hepler3(str string){
+	print(str)
 }
